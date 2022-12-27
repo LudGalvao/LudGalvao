@@ -12,5 +12,5 @@
 # Minhas estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LudGalvao&show_icons=true&theme=gruvbox)
 
-# Linguagens mais usadas
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludgalvao&show_icons=true&theme=tokyonight&title_color=df2020&bg_color=2b00ff&locale=pt-br&layout=compact" alt="ludgalvao" /></p>
