@@ -13,4 +13,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LudGalvao&show_icons=true&theme=gruvbox)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludgalvao&show_icons=true&theme=tokyonight&title_color=050505&text_color=faf4f4&bg_color=a6ff00&locale=pt-br&layout=compact" alt="ludgalvao" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludgalvao&show_icons=true&theme=tokyonight&title_color=050505&text_color=faf4f4&bg_color=8c00a8&locale=pt-br&layout=compact" alt="ludgalvao" /></p>
