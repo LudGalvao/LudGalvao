@@ -11,4 +11,6 @@
 
 # Minhas estatísticas
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludgalvao&show_icons=true&theme=tokyonight&locale=en" alt="ludgalvao" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludgalvao&show_icons=true&theme=tokyonight&title_color=050505&text_color=faf4f4&bg_color=8c00a8&locale=pt-br&layout=compact" alt="ludgalvao" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludgalvao&show_icons=true&theme=tokyonight&title_color=050505&text_color=faf4f4&bg_color=8c00a8&locale=pt-br&layout=compact" alt="ludgalvao" /></p>
