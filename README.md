@@ -1,4 +1,4 @@
-###  Olá, meu nome é Lud
+###  Olá, meu nome é Lud Galvão
 
 - Desenvolvedor Back-end e Cientista de dados.
 - Atualmente estudando Java e SQL
