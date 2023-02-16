@@ -1,5 +1,5 @@
 ###  Olá, meu nome é Lud.
-- Desenvolvedor Back-end e Cientista de dados
+- Desenvolvedor Back-end e Cientista de dados.
 - Atualmente estudando Java e SQL
 
 
