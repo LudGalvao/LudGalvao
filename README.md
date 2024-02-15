@@ -1,13 +1,8 @@
 ###  Olá, meu nome é Lud Galvão
 
-<div>
-    <a href="https://www.linkedin.com/in/lud-galv%C3%A3o/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lud galvão de lima" height="30" width="40" /></a>
-</div>
-<div>
-    <a href="https://www.kaggle.com/ludgalvo" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="lud galvão de lima" height="30" width="40" /></a>
-</div>
+<a href="https://www.linkedin.com/in/lud-galv%C3%A3o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lud galvão de lima" height="30" width="40" /></a>  
 
-
+<a href="https://www.kaggle.com/ludgalvo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="lud galvão de lima" height="30" width="40" /></a>
 
 ## Principais linguagens: 
 
