@@ -16,5 +16,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
 
 
-![Hacking Computer Screen GIF](https://tenor.com/pt-BR/view/hacking-computer-screen-green-screen-computer-commands-gif-14181664)
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVubG0xbnVlZnVjbTU1cjhvbGN5eml4MjR1bndsMW1pNThiNnlpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lptIayuGHV9Utu3iTv/giphy.gif)
+
 
