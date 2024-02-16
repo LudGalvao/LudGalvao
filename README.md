@@ -16,4 +16,5 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
 
 
-<div class="tenor-gif-embed" data-postid="14181664" data-share-method="host" data-aspect-ratio="1.77515" data-width="100%"><a href="https://tenor.com/view/hacking-computer-screen-green-screen-computer-commands-gif-14181664">Hacking Computer Screen GIF</a>from <a href="https://tenor.com/search/hacking-gifs">Hacking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Hacking Computer Screen GIF](https://tenor.com/pt-BR/view/hacking-computer-screen-green-screen-computer-commands-gif-14181664)
+
