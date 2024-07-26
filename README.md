@@ -17,6 +17,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
+##Stats
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=black
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVubG0xbnVlZnVjbTU1cjhvbGN5eml4MjR1bndsMW1pNThiNnlpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lptIayuGHV9Utu3iTv/giphy.gif" alt="GIF" width="1200">
 
 
