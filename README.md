@@ -15,36 +15,33 @@
 
   </p>
 
-    /About_Me
+    /
     │
     ├── /bio
-    │   ├── he/him - brazilian - (pt/br + english)
-    │   ├── /electronics_technician
-    │   │   └── at www.liberato.com.br
-    │   ├── /computer science undergraduated
-    │   │   └── at www.unisinos.br
-    │   └── /embedded systems developer in research and development sector (R&D)
-    |       └── at www.altus.com.br
+    │   ├── Brazilian From Rio de Janeiro - (pt/br + english)
+    │   ├── /Desenvolvedor Fullstack
+    │   │   └── ???
+    │   ├── /Analise e desenvolvimento de sistemas(4/5)
+    │   │   └── Senac Rj
     │
     ├── /os
-    │   ├── /linux
-    │   │   └── arch_linux (main)
-    │   └── /windows
-    │       └── Windows 11: with WSL (Ubuntu 18.3)
+    │   ├── /Windows
+    │   │   └──  Windows 10: with WSL(Ubuntu 22.04)(main)
+    │   └── /linux
+    │       └── Linux Server Desktop (Ubuntu 22.04)(secondary)
     │
-    ├── /languages
-    │   ├── C.c
-    │   ├── C++.cpp
-    │   ├── bash_script.sh
-    │   ├── shell_script.sh
-    │   ├── assembly.asm
-    │   └── python.py
+    ├── /languages and Frameworks
+    │   ├── SpringBoot
+    │   ├── Angular
+    │   ├── Bash_script.sh
+    │   ├── Shell_script.sh
+    │   ├── Java.java
+    │   ├── SQL
+    │   └── Python.py
     │
-    └── /learning
-        ├── editing codes in Vim
-        ├── golang.go
-        ├── rust.rs
-        └── zig.zig
+    └── /Apredendo
+        ├── AWS
+        ├── Nest.JS
         
   </tr>
 </table>
