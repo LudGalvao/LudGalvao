@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="width: 50%;">
+    <td style="width: 100%;">
        <img src="https://media.giphy.com/media/GlnM3iEfIWJ39iWPNQ/giphy.gif" width="318" height="480" alt="GIF via GIPHY" />
     </td>
     <td style="width: 50%; vertical-align: top;">
