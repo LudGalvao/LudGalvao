@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://giphy.com/embed/GlnM3iEfIWJ39iWPNQ" alt="code" style="width: 200%; border: none;"/>
+       <iframe src="https://giphy.com/embed/GlnM3iEfIWJ39iWPNQ" width="318" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/virtual-catfished-girl-GlnM3iEfIWJ39iWPNQ">via GIPHY</a></p>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
