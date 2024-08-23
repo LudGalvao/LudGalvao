@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 100%;">
-       <img src="https://media.giphy.com/media/GlnM3iEfIWJ39iWPNQ/giphy.gif" width="318" height="570" alt="GIF via GIPHY" />
+       <img src="https://giphy.com/embed/91pmJROMJK0kHBIbq7/giphy.gif" width="318" height="570" alt="GIF via GIPHY" />
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
