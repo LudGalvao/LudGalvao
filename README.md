@@ -36,7 +36,7 @@
     │   ├── MongoDB
     │   └── Python.py
     │
-    └── /Aprendendo
+    └── /learning
         ├── AWS
         ├── Nest.JS
   </tr>
