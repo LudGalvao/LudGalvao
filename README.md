@@ -17,7 +17,7 @@
     │   ├── Brazilian From Rio de Janeiro - (pt/br + english)
     │   ├── /Desenvolvedor Fullstack
     │   │   └── ???
-    │   ├── /Formado em Analise e desenvolvimento de sistemas
+    │   ├── /formed in Analise e desenvolvimento de sistemas
     │   │   └── Senac Rj
     │
     ├── /os
