@@ -38,6 +38,5 @@
     │
     └── /learning
         ├── AWS
-        ├── Nest.JS
   </tr>
 </table>
