@@ -14,7 +14,7 @@
     /
     │
     ├── /bio
-    │   ├── Brazilian From Rio de Janeiro - (pt/br + english)
+    │   ├── Brazilian From Rio de Janeiro
     │   ├── /Desenvolvedor Fullstack
     │   │   └── ???
     │   ├── /formed in Analise e desenvolvimento de sistemas
