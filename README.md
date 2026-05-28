@@ -23,8 +23,8 @@
     │   │   └── Puc Rj
     │
     ├── /os
-    │   ├── /Windows
-    │   │   └──  Windows 10: with WSL(Ubuntu 22.04)(main)
+    │   ├── /linux
+    │   │   └── Ubuntu 26.04(main)
     │   └── /linux
     │       └── Linux Server Desktop (Ubuntu 22.04)(secondary)
     │
